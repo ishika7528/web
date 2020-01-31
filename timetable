@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+<head>
+<title>Ishika 1710991330</title>
+<style>
+table,th,td
+{
+
+border:2px solid black;
+border-collapse:collapse;
+}
+th,td
+{
+ width:10%;
+text-align:left;
+font-size:100%;
+padding:5px;
+}
+</style>
+</head>
+<body>
+<table>
+<caption> timetable H</caption>
+<tr style=background-color:"yellow">
+<td> </td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr >
+<th rowspan="2"> mon</th>
+<td colspan="2">core java</td>
+<td rowspan="2">SE</td>
+<td rowspan="2"> </td>
+<td colspan="2">DBMS-Lab</td>
+<td rowspan="2">DBMS</td>
+<td rowspan="2">CST</td>
+
+</tr>
+<tr>
+<td colspan="2">SE-Lab</td>
+<td colspan="2">core java</td>
+
+</tr>
+
+
+
+<tr>
+<th rowspan="2"> tue</th>
+<td colspan="2">cst lab</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td colspan="2">core java</td>
+<td rowspan="2">CST</td>
+<td rowspan="2">DBMS</td>
+
+</tr>
+<tr>
+<td colspan="2">core java</td>
+<td colspan="2">dbms lab</td>
+
+</tr>
+
+
+
+<tr>
+<th rowspan="2"> wed</th>
+<td colspan="2">CORE JAVA</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td colspan="2">SE LAB</td>
+<td rowspan="2"> </td>
+<td rowspan="2">SE</td>
+
+</tr>
+<tr>
+<td colspan="2">CST-LAB</td>
+<td colspan="2">CORE JAVA</td>
+
+</tr>
+
+
+<tr>
+<th rowspan="2"> th</th>
+<td colspan="2">core java</td>
+<td rowspan="2" colspan="2">EE 1 </td>
+
+<td rowspan="2"> </td>
+<td rowspan="2">CSt</td>
+<td colspan="2"> cst lab</td>
+
+</tr>
+<tr>
+<td colspan="2"> cst lab</td>
+<td colspan="2">core java</td>
+
+</tr>
+
+
+
+<tr>
+<th rowspan="2"> fri</th>
+<td rowspan="2">cst</td>
+<td rowspan="2">se </td>
+<td colspan="2">corejava </td>
+<td rowspan="2"> </td>
+<td rowspan="2">DBMS</td>
+<td colspan="2">CST lab</td>
+
+</tr>
+<tr>
+<td colspan="2">dbms lab</td>
+<td colspan="2">core java</td>
+
+</tr>
+
+</body>
+</html>
+
+
+ 
