@@ -1,0 +1,45 @@
+<!Doctype HTML>
+<Head>
+
+<Title>My new Page</Title>
+
+</Head>
+
+<Body>
+<body style="background-color:skyblue;">
+<h1> this page is written by me </h1>
+<h2> i am <small> small </small><del> kid </del></h2>
+
+<hr align="centre" width="1000" size="1"> 
+ 
+
+<h4><div style="background-color:red;"><p>these words 
+are said by <b><ins>  Josh Billings </ins></b>  that  <b><i> 
+  Experience increases our wisdom but doesn't reduce our follies.
+</i></b></p></div></h4>
+
+<p><mark> (a<sub>1</sub>+ b<sub>1</sub>)<sup>2</sup></mark>
+<br><strong> i am strong</strong><br>
+you can use <abbr title="cascading style sheet"> CSS </abbr>
+to <em>design</em> your <abbr title="hyper text markup language"> HTML</abbr> page.<br>
+<bdo dir="rtl"> this is right to left </bdo><br>
+<big>this is smaller text</big><br>
+<small>this is bigger text</small>
+<p>H<sub>2</sub>O
+<p>x<sup>2</sup>
+<p> my sister has <spam style="color:blue";> blue</spam> eyes </p>
+<pre>          i 
+        was
+       born 
+        on
+       sunday </pre>
+<ul>
+<li> engineering</li>
+<ul style="list-style-type:circle">
+<li>CSE</li>
+<li>ECE</li>
+</ul>
+
+
+</body>
+</html>
