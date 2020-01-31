@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>table</title>
+</head>
+<body>
+<table rules="all">
+<caption>Favorite and least favorite things</caption>
+<thead rules="rows" style="background-image:url(pnt.png);">
+<tr>
+<th> </th>
+<th> </th>
+
+<th>ryan</th>
+<th>reyansh</th>
+</tr>
+</thead>
+<tbody >
+<tr>
+<th rowspan="2">favorite</th>
+<td>color</td>
+<td>blue</td>
+<td>purple</td>
+</tr>
+<tr>
+<td>flavor</td>
+<td>banana</td>
+<td>chocolate</td>
+</tr>
+<tr>
+<th rowspan="2">Least favorite</th>
+<td>color</td>
+<td>yellow</td>
+<td>pink</td>
+</tr>
+<tr>
+<td>flavor</td>
+<td>mint</td>
+<td>walnut</td>
+</tbody>
+<tfoot style="background-color:yellow;">
+<th colspan="4">  </th>
+  </tfoot>
+</tr></table>
+</body>
+</html>
