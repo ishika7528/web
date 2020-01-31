@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Ishika 1710991330</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){ 
+$("#button1").click(function(){ 
+$("p").hide(); 
+}); 
+}); 
+$(document).ready(function(){ 
+$("#button2").click(function(){ 
+$("p").show(); 
+}); 
+}); 
+$(document).ready(function(){ 
+$("#button3").click(function(){ 
+$("p").slideUp(); 
+}); 
+}); 
+$(document).ready(function(){ $("#button4").click(function(){ $("p").slideDown(); 
+}); 
+}); 
+$(document).ready(function(){ 
+$("#button5").click(function(){ 
+$("p").fadeIn(); 
+}); 
+});
+$(document).ready(function(){ $("#button6").click(function(){ 4("p").fadeOut(); 
+}); 
+}); 
+$(document).ready(function(){ 
+$("#button7").click(function(){ 
+$("p").toggle(); 
+}); 
+}); 
+</script>
+</head>
+<body>
+<h2>Heading</h2>
+<p>Paragraph</p>
+<p>Second paragraph</p>
+<button id="button1">Click me to hide paragraph</button><br>
+<button id="button2">Click me to show paragraph</button><br>
+<button id="button3">Click me to slide up paragraph</button><br>
+<button id="button4">Click me to slide down paragraph</button><br>
+<button id="button5">Click me to fade in paragraph</button><br>
+<button id="button6">Click me to fade out paragraph</button><br>
+<button id="button7">Click me to toggle paragraph</button><br>
+</body>
+</html>
